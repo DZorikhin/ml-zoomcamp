@@ -1,3 +1,3 @@
 # About
 
-ML zoomcamp course.
+ML zoomcamp course. HW 1.
